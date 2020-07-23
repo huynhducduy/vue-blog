@@ -22,13 +22,13 @@
       >
         <!--Title-->
         <div class="font-sans">
-          <a :href="'./' + blog.id">
+          <router-link :to="'./' + blog.id">
             <h1
               class="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-3xl md:text-4xl"
             >
               {{ blog.title }}
             </h1>
-          </a>
+          </router-link>
           <p class="text-sm md:text-base font-normal text-gray-600">
             Published 19 February 2019
           </p>

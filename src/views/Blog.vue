@@ -52,7 +52,7 @@
     </div>
 
     <!--Divider-->
-    <hr class="border-b-2 border-gray-400 mb-8 mx-4" />
+    <hr class="border-b-2 border-gray-300 mb-8 mx-4" />
 
     <!--Subscribe-->
     <div class="container px-4">
@@ -117,7 +117,7 @@
     <!--/Author-->
 
     <!--Divider-->
-    <hr class="border-b-2 border-gray-400 mb-8 mx-4" />
+    <hr class="border-b-2 border-gray-300 mb-8 mx-4" />
 
     <!--Next & Prev Links-->
     <div class="font-sans flex justify-between content-center px-4 pb-12">
