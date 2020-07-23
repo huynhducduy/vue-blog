@@ -16,5 +16,6 @@
         "parser": "scss"
       }
     }
-  ]
+  ],
+  "eslintIntegration": true
 }
